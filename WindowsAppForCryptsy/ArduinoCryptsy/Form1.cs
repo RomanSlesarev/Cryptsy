@@ -21,6 +21,7 @@ namespace ArduinoCryptsy
         Thread th;
         SerialPort port = new SerialPort("COM3", 9600);
         bool flag;
+
         public Form1()
         {
             InitializeComponent();
@@ -46,7 +47,6 @@ namespace ArduinoCryptsy
                 }
             });
             th.Start();
-
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
