@@ -1,0 +1,9 @@
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\bin\Debug\ArduinoCryptsy.exe.config
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\bin\Debug\ArduinoCryptsy.exe
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\bin\Debug\ArduinoCryptsy.pdb
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.csprojResolveAssemblyReference.cache
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.Form1.resources
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.Properties.Resources.resources
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.csproj.GenerateResource.Cache
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.exe
+c:\users\albeom\documents\visual studio 2013\Projects\ArduinoCryptsy\ArduinoCryptsy\obj\Debug\ArduinoCryptsy.pdb
